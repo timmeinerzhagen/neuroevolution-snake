@@ -1,6 +1,0 @@
-﻿  Trainer.cpp
-c:\users\timom\desktop\wia\snake_wia\snake_wia\trainer.cpp(54): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
-c:\users\timom\desktop\wia\snake_wia\snake_wia\trainer.cpp(72): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
-c:\users\timom\desktop\wia\snake_wia\snake_wia\trainer.cpp(89): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
-c:\users\timom\desktop\wia\snake_wia\snake_wia\trainer.cpp(135): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
-  Snake_WIA.vcxproj -> C:\Users\timom\Desktop\WIA\Snake_WIA\Debug\Snake_WIA.exe

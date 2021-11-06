@@ -12,7 +12,7 @@ The goal was to create a basic program utilizing a neural networks and genetic t
 
 The basic class structure can be seen in the UML Class Diagram below.
 
-![UML Diagram Neuroevolution](Neuroevolution_UML_Classes.png)
+![UML Diagram Neuroevolution](uml.png)
 
 ## Research Paper (German)
 
